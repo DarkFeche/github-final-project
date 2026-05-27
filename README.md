@@ -15,3 +15,4 @@ To run this script, you need a Linux-based environment (such as Ubuntu/Lubuntu) 
 1. Give execution permissions to the script file in your terminal:
    ```bash
    chmod +x simple-interest.sh
+Typo fixed in markdown documentation branch.
