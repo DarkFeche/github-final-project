@@ -1,0 +1,6 @@
+Dark Feche@Dell-Feche MINGW64 ~/OneDrive/Documentos/Programmer/github-final-project (bug-fix-revert)
+$ curl -s https://api.github.com/repos/DarkFeche/github-final-project | grep -E '"fork":|"parent":'
+  "fork": true,
+  "parent": {
+    "fork": false,
+    "fork": false,
